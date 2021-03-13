@@ -1,7 +1,7 @@
 
 ### iOS 개발자 한상진(Havi)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhansangjin96&count_bg=%23FF7E7E&title_bg=%23A88AED&icon=swift.svg&icon_color=%23FF7E7E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhansangjin96&count_bg=%2392A8D1&title_bg=%23A88AED&icon=swift.svg&icon_color=%2392A8D1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### 🌟  Blog & Note
 
