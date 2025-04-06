@@ -1,8 +1,6 @@
 
 ## 🌱 iOS 개발자 한상진(Havi)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhavilog&count_bg=%2392A8D1&title_bg=%23A88AED&icon=swift.svg&icon_color=%2392A8D1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 #### 🌟  Blog & Notion
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://velog.io/@hansangjin96)](https://velog.io/@hansangjin96)
